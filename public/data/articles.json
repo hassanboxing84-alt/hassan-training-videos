@@ -1,0 +1,146 @@
+[
+  {
+    "id": "A01",
+    "category": "Strength & Conditioning",
+    "title_en": "Progressive Overload: Build Performance Without Guesswork",
+    "title_ar": "الحمل التدريجي: طوّر الأداء دون عشوائية",
+    "summary_en": "Progress training by tracking load, repetitions, range of motion and effort. Increase one variable at a time when the current work is repeatable with sound technique.",
+    "summary_ar": "طوّر التدريب عبر متابعة الأوزان والتكرارات ومدى الحركة وشدة الجهد. زد متغيراً واحداً تدريجياً عندما يصبح الأداء الحالي ثابتاً وبأسلوب صحيح.",
+    "body_en": "Progressive overload does not mean adding weight every session. It means applying a gradually increasing training stimulus while preserving technique and recovery. A practical method is double progression: work within a repetition range, and add a small amount of load only after all working sets reach the top of the range with the intended repetitions in reserve. Record the exercise, load, repetitions, sets and perceived effort. If performance declines repeatedly, review sleep, stress, nutrition, exercise selection and total volume before adding more work.",
+    "body_ar": "الحمل التدريجي لا يعني زيادة الوزن في كل حصة. المقصود هو رفع المثير التدريبي تدريجياً مع الحفاظ على التقنية والاستشفاء. طريقة عملية هي التدرج المزدوج: العمل ضمن نطاق تكرارات، ثم زيادة بسيطة في الحمل بعد إكمال جميع المجموعات عند الحد الأعلى مع الاحتفاظ بالتكرارات المستهدفة قبل الفشل. سجّل التمرين والوزن والتكرارات والمجموعات والجهد المدرك. إذا تراجع الأداء باستمرار، راجع النوم والضغط والتغذية واختيار التمرين والحجم التدريبي قبل إضافة أحمال أخرى.",
+    "sources": [
+      {
+        "name": "ACSM — Progression Models in Resistance Training",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+      },
+      {
+        "name": "NSCA — Resistance Training",
+        "url": "https://www.nsca.com/education/articles/"
+      }
+    ]
+  },
+  {
+    "id": "A02",
+    "category": "Hypertrophy",
+    "title_en": "Training Volume and Muscle Growth",
+    "title_ar": "الحجم التدريبي ونمو العضلات",
+    "summary_en": "Weekly hard sets matter, but the best dose is individual. Start with a recoverable amount and adjust using performance and recovery.",
+    "summary_ar": "المجموعات الفعالة الأسبوعية مهمة، لكن الجرعة المناسبة تختلف بين الأفراد. ابدأ بحجم يمكن الاستشفاء منه ثم عدّله وفق الأداء والتعافي.",
+    "body_en": "Training volume is commonly monitored as challenging sets per muscle group per week. More is not automatically better: excessive volume can reduce performance and recovery. Distribute work across the week when useful, use stable technique and select loads that bring sets sufficiently close to muscular failure without forcing poor repetitions. Beginners generally need less volume than experienced lifters. Increase volume only when progress has stalled and recovery remains good.",
+    "body_ar": "يُتابَع الحجم التدريبي غالباً بعدد المجموعات الصعبة لكل مجموعة عضلية أسبوعياً. الزيادة ليست أفضل دائماً؛ فالحجم المفرط قد يضعف الأداء والاستشفاء. وزّع العمل على أيام الأسبوع عند الحاجة، وحافظ على التقنية، واختر أحمالاً تجعل المجموعة قريبة بما يكفي من الفشل العضلي دون تكرارات مشوهة. غالباً يحتاج المبتدئ حجماً أقل من المتدرب الخبير. لا ترفع الحجم إلا عند تعثر التقدم مع بقاء الاستشفاء جيداً.",
+    "sources": [
+      {
+        "name": "ACSM — Progression Models in Resistance Training",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+      },
+      {
+        "name": "PubMed — Resistance training dose-response research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=resistance+training+volume+hypertrophy+systematic+review"
+      }
+    ]
+  },
+  {
+    "id": "A03",
+    "category": "Boxing Performance",
+    "title_en": "Boxing Conditioning: Separate Skill, Aerobic Work and High-Intensity Efforts",
+    "title_ar": "إعداد الملاكم: افصل المهارة والتحمل الهوائي والجهد العالي",
+    "summary_en": "Boxing fitness is multidimensional. Build technical quality, aerobic capacity and repeat-effort ability instead of making every session maximal.",
+    "summary_ar": "لياقة الملاكم متعددة الجوانب. طوّر جودة المهارة والتحمل الهوائي والقدرة على تكرار الجهد بدلاً من تحويل كل حصة إلى أقصى شدة.",
+    "body_en": "A useful boxing week balances technical practice, strength and power, aerobic conditioning and carefully dosed high-intensity intervals. Easy aerobic sessions should remain easy enough to support repeatability and recovery. High-intensity work should resemble the demands of the athlete's event and be introduced with adequate preparation. Monitor technical quality under fatigue: when stance, guard or punch mechanics deteriorate, stop or reduce the round rather than rehearsing poor movement.",
+    "body_ar": "الأسبوع التدريبي الجيد للملاكم يوازن بين التدريب الفني والقوة والقدرة والتحمل الهوائي وفترات الجهد العالي بجرعة محسوبة. ينبغي أن تبقى جلسات التحمل السهل سهلة بما يسمح بتكرارها ودعم الاستشفاء. أما الجهد العالي فيُصمم بما يناسب متطلبات المنافسة ويُدخل بعد إعداد كافٍ. راقب جودة الأداء تحت التعب؛ فإذا تدهورت الوقفة أو الحراسة أو ميكانيكية اللكم، أوقف الجولة أو خففها بدلاً من تكرار حركة خاطئة.",
+    "sources": [
+      {
+        "name": "World Boxing — Rules and resources",
+        "url": "https://worldboxing.org/"
+      },
+      {
+        "name": "BJSM — Combat sports and sports medicine research",
+        "url": "https://bjsm.bmj.com/"
+      }
+    ]
+  },
+  {
+    "id": "A04",
+    "category": "Recovery",
+    "title_en": "Recovery Is Part of the Training Plan",
+    "title_ar": "الاستشفاء جزء من البرنامج التدريبي",
+    "summary_en": "Sleep, nutrition, stress and workload influence adaptation. Plan recovery rather than treating it as unused time.",
+    "summary_ar": "النوم والتغذية والضغط النفسي وحجم التدريب تؤثر في التكيف. خطط للاستشفاء بدلاً من اعتباره وقتاً ضائعاً.",
+    "body_en": "Training creates a stimulus; adaptation occurs when the athlete can recover from it. Track sleep duration and quality, soreness, motivation and performance trends. A single poor day is not necessarily a problem, but several signals moving in the wrong direction warrant adjustment. Reduce volume or intensity temporarily, improve sleep opportunity and review life stress. Persistent pain, unusual symptoms or suspected injury require assessment by an appropriately qualified health professional.",
+    "body_ar": "التدريب يخلق المثير، أما التكيف فيحدث عندما يستطيع الرياضي الاستشفاء منه. تابع مدة النوم وجودته والألم العضلي والدافعية واتجاه الأداء. يوم واحد سيئ لا يعني بالضرورة وجود مشكلة، لكن تراجع عدة مؤشرات معاً يستدعي التعديل. خفّض الحجم أو الشدة مؤقتاً، وحسّن فرصة النوم وراجع ضغوط الحياة. الألم المستمر أو الأعراض غير المعتادة أو الاشتباه في إصابة يستلزم تقييماً لدى مختص صحي مؤهل.",
+    "sources": [
+      {
+        "name": "Sleep and Athletic Performance — PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sleep+athletic+performance+consensus"
+      }
+    ]
+  },
+  {
+    "id": "A05",
+    "category": "Mobility",
+    "title_en": "Mobility: Control the Range You Can Use",
+    "title_ar": "الحركة والمرونة: تحكّم في المدى الذي تستطيع استخدامه",
+    "summary_en": "Useful mobility combines accessible range of motion with strength and control. Choose drills that match the limitation and the task.",
+    "summary_ar": "الحركة المفيدة تجمع بين مدى حركي مناسب والقوة والتحكم. اختر التدريبات التي تناسب محدودية الحركة والمهارة المطلوبة.",
+    "body_en": "Mobility is not simply stretching farther. It includes the ability to access and control a range of motion. Use dynamic movement before training when it prepares the task, and use targeted mobility or strength work to address specific restrictions. Avoid forcing painful end ranges. For lifting, assess whether the athlete can maintain balance, joint control and the intended technique through the required range.",
+    "body_ar": "الحركة ليست مجرد الوصول إلى مدى أكبر في الإطالة؛ بل تشمل القدرة على الوصول إلى المدى الحركي والتحكم فيه. استخدم الحركات الديناميكية قبل التدريب عندما تجهز الجسم للمهمة، وأضف تمارين حركة أو قوة موجهة لمعالجة القيود المحددة. لا تفرض الوصول إلى نهاية مدى مؤلمة. في تمارين المقاومة، قيّم قدرة المتدرب على الحفاظ على التوازن والتحكم المفصلي والتقنية المطلوبة خلال المدى المناسب.",
+    "sources": [
+      {
+        "name": "ACSM — Exercise guidelines and flexibility resources",
+        "url": "https://www.acsm.org/education-resources/trending-topics-resources"
+      }
+    ]
+  },
+  {
+    "id": "A06",
+    "category": "Endurance",
+    "title_en": "Build an Aerobic Base with Consistency",
+    "title_ar": "ابنِ قاعدة هوائية بالاستمرارية",
+    "summary_en": "Consistent moderate aerobic work supports endurance. Progress duration gradually and protect easy days from becoming hard sessions.",
+    "summary_ar": "العمل الهوائي المعتدل المنتظم يدعم التحمل. زد المدة تدريجياً وحافظ على الأيام السهلة دون تحويلها إلى حصص شديدة.",
+    "body_en": "Aerobic development responds to repeated, appropriately dosed work. Many athletes benefit from sessions performed at a conversational intensity, alongside selected harder sessions when their training age and goals justify them. Increase weekly duration conservatively, vary surfaces or modes when needed, and monitor fatigue. A sudden jump in running volume can exceed tissue tolerance even when breathing feels comfortable.",
+    "body_ar": "يتطور التحمل الهوائي عبر تكرار العمل بجرعة مناسبة. يستفيد كثير من الرياضيين من جلسات بشدة تسمح بالتحدث، إلى جانب حصص أصعب مختارة عندما تسمح الخبرة والأهداف بذلك. زد المدة الأسبوعية بحذر، وغيّر الأسطح أو وسائل التدريب عند الحاجة، وراقب التعب. الزيادة المفاجئة في حجم الجري قد تتجاوز قدرة الأنسجة على التحمل حتى لو كان التنفس مريحاً.",
+    "sources": [
+      {
+        "name": "WHO — Physical activity guidelines",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      }
+    ]
+  },
+  {
+    "id": "A07",
+    "category": "Exercise Technique",
+    "title_en": "Technique First: Make Repetitions Repeatable",
+    "title_ar": "التقنية أولاً: اجعل التكرارات قابلة للتكرار",
+    "summary_en": "A useful repetition is controlled, appropriate to the athlete and consistent with the exercise goal—not simply a completed movement.",
+    "summary_ar": "التكرار الجيد متحكم فيه ومناسب للمتدرب ومتوافق مع هدف التمرين، وليس مجرد إكمال الحركة.",
+    "body_en": "Set up the exercise so the athlete can repeat the intended movement safely. Use a suitable range, stable contact points and a controlled tempo. End a set when technique changes materially or the target effort has been reached. Regress the movement when pain, loss of control or poor coordination appears; progress it only when the current variation is reliable.",
+    "body_ar": "اضبط التمرين بحيث يستطيع المتدرب تكرار الحركة المطلوبة بأمان. استخدم مدى مناسباً ونقاط ارتكاز ثابتة وإيقاعاً متحكماً فيه. أنهِ المجموعة عندما تتغير التقنية بصورة واضحة أو يتحقق مستوى الجهد المستهدف. بسّط الحركة عند ظهور الألم أو فقدان التحكم أو ضعف التناسق، ولا تصعّبها إلا بعد إتقان المستوى الحالي.",
+    "sources": [
+      {
+        "name": "NSCA — Exercise technique and coaching resources",
+        "url": "https://www.nsca.com/education/articles/"
+      }
+    ]
+  },
+  {
+    "id": "A08",
+    "category": "Health & Safety",
+    "title_en": "Screen, Individualize and Refer When Needed",
+    "title_ar": "قيّم الحالة وخصّص التدريب وأحل إلى المختص عند الحاجة",
+    "summary_en": "Pre-exercise screening helps identify when a client needs clarification or medical guidance before progressing.",
+    "summary_ar": "يساعد التقييم قبل التدريب على تحديد الحالات التي تحتاج إلى استيضاح أو توجيه طبي قبل زيادة الحمل.",
+    "body_en": "Collect relevant training history, current activity, goals, known limitations and warning symptoms. Do not diagnose or promise that exercise will treat a medical condition. Chest pain, fainting, unexplained severe breathlessness or acute neurological symptoms require prompt medical attention. Adapt exercise within the coach's scope of practice and refer to qualified clinicians when symptoms or medical complexity exceed it.",
+    "body_ar": "اجمع التاريخ التدريبي ومستوى النشاط الحالي والأهداف والقيود المعروفة والأعراض التحذيرية ذات الصلة. لا تشخّص الأمراض ولا تعد بأن التدريب سيعالج حالة طبية. ألم الصدر أو الإغماء أو ضيق النفس الشديد غير المفسر أو الأعراض العصبية الحادة تستلزم عناية طبية عاجلة. عدّل التدريب ضمن حدود اختصاص المدرب وأحل الحالات التي تتجاوزها إلى مختصين صحيين مؤهلين.",
+    "sources": [
+      {
+        "name": "ACSM — Preparticipation screening",
+        "url": "https://www.acsm.org/education-resources/trending-topics-resources"
+      },
+      {
+        "name": "WHO — Physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      }
+    ]
+  }
+]
